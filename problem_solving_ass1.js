@@ -1,4 +1,4 @@
-var A=3;
+var A=prompt();
 
 for(var a=0;a<A;a++ ){
     for(var b=a+1;b<A;b++){
